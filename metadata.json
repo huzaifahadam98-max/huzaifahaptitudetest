@@ -1,5 +1,6 @@
 {
   "name": "Consultant Aptitude Trainer",
   "description": "An AI-powered application designed to help users prepare for consultant aptitude tests. It generates questions across logical, numerical, verbal, and case study categories, providing instant feedback and detailed explanations to sharpen critical thinking and problem-solving skills.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": []
 }
